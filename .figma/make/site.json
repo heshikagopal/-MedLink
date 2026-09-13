@@ -1,0 +1,10 @@
+{
+  "description": "Centralizes patient health records with unique IDs for seamless access across clinics, reducing duplicate tests and enabling real-time monitoring and report sharing.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
