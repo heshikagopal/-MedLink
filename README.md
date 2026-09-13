@@ -136,3 +136,5 @@ The development server starts on the port defined by the `$PORT` environment var
 ## Why This Matters
 
 The repeated-checkup waste happens because reports aren't portable. A patient sees Doctor A, then Doctor B has no visibility into A's tests and re-orders them. Centralizing records behind one retrievable ID — with a low-bandwidth access path for rural users — directly removes that redundancy and improves outcomes for patients who move between providers.
+
+**Live link:** -https://medlink-steel.vercel.app/
